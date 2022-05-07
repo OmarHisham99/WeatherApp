@@ -3,6 +3,8 @@
 ## Table Of Content
 
 * [Overview]
+* [Development]
+* [Resources]
 
 ## Overview
 This project provides data about temperature in cities using Zip Code, it uses OpenWeatherMap Api to get the city data. and update the UI with this Data, Date and User Feelings.
