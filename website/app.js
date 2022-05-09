@@ -1,6 +1,6 @@
 // Personal API Key for OpenWeatherMap API
 const baseUrl = "https://api.openweathermap.org/data/2.5/weather?zip="
-const apiKey = "&appid=31edc88decfc6b6bbe7f21bc33cca809"; 
+const apiKey = "&appid=31edc88decfc6b6bbe7f21bc33cca809&units=imperial"; 
 // Event listener to add function to existing HTML DOM element
 document.getElementById('generate').addEventListener('click',trigger); 
 
